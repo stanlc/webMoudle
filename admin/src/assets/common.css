@@ -1,0 +1,21 @@
+/* card样式 */
+.box-card /deep/ .el-card__header{
+    height: 4vh;
+    background: #19437e;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    border: none;
+}
+.box-card {
+    width: 82vw;
+    height: 78vh;
+    background:	#B0C4DE !important;
+    border-radius: 5px;
+    margin: 50px auto;
+    position: relative;
+} 
+.page{
+    position: absolute;
+    bottom: 20px;
+}
