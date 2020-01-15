@@ -9,7 +9,7 @@ import videoPlayer from '../components/videoPlayer'
     export default {
         data() {
             return {
-                url: 'http://stream2.ahtv.cn/ahws/cd/live.m3u8'
+                url: 'http://110.185.174.8:10006/live/cameraid/1000037%240/substream/1.m3u8'
             }
         },
         components:{videoPlayer}
